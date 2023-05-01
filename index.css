@@ -1,0 +1,39 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+#increaseLabel{
+    font-size: 20px;    
+    text-align: left;
+}
+#decreaseLabel{
+    font-size: 20px;
+    text-align: center;
+}
+#resetLabel{
+    font-size: 20px;
+    text-align: right;
+}
+#rollLabel{
+    margin: auto;
+    font-size: 40px;
+    display: block;
+    text-align: center;
+}
+#rollBtn{
+    margin:auto ;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+#myText{
+    text-align: center; 
+    font-size: 30px;
+    display: block;
+}
